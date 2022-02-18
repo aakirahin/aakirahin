@@ -3,9 +3,7 @@
 📫 Reach me at nihsunwar@gmail.com
 <br>
 💼 Or visit my [LinkedIn](https://www.linkedin.com/in/niharika-sunwar/)
-
 <br>
-
 ### ⚙️ Technical skills
 
 **Languages**
