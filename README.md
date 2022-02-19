@@ -1,4 +1,4 @@
-## Hey! I'm Niharika, a coding bootcamp graduate 👋🏼
+## Hey! 👋🏼
 
 📫 Reach me at nihsunwar@gmail.com
 <br>
