@@ -4,12 +4,14 @@
 <br>
 💼 Or visit my [LinkedIn](https://www.linkedin.com/in/niharika-sunwar/)
 <br>
+
 ### ⚙️ Technical skills
 
 **Languages**
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-ffe100?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00bbff)
+![Python](https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white)
 
 **Front End**
 <br>
