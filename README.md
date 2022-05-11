@@ -25,4 +25,5 @@
 ![Node](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-0769AD?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
