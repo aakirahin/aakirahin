@@ -19,7 +19,7 @@
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-0769AD?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00bbff)
-![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=flutter&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
 
 **Back End**
 <br>
