@@ -11,7 +11,7 @@
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-ffe100?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 **Front End**
 <br>
