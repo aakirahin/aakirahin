@@ -31,6 +31,6 @@
 
 **Dev Ops**
 <br>
-![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/jenkins-b53131?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon&logoColor=orange)
