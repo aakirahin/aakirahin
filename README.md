@@ -30,6 +30,7 @@
 ![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
 
 **Dev Ops**
+<br>
 ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/jenkins-b53131?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon&logoColor=orange)
