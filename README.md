@@ -10,6 +10,7 @@
 **Languages**
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-ffe100?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white)
 
 **Front End**
@@ -25,4 +26,10 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 **Testing**
+<br>
 ![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
+
+**Dev Ops**
+![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/jenkins-b53131?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon&logoColor=orange)
