@@ -27,8 +27,8 @@
 
 **Testing**
 <br>
-![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-ff006f?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
 
 **Dev Ops**
 <br>
