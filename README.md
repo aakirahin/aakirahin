@@ -13,14 +13,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 
-**Front End**
+**Frameworks**
 <br>
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=00bbff)
-![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-0769AD?style=for-the-badge&logo=css3&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-a938ff?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-a938ff?style=for-the-badge&logo=vite&logoColor=white)
 
-**Back End**
+**Databases**
 <br>
 ![PostgreSQL](https://img.shields.io/badge/postgresql-0769AD?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=MongoDB&logoColor=green)
