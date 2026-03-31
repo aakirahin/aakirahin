@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=00bbff)
 ![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
 ![TanStack](https://img.shields.io/badge/tanstack-orange?style=for-the-badge&logo=tanstack&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-a938ff?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-a938ff?style=for-the-badge&logo=vite&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-teal?style=for-the-badge&logo=nextjs&logoColor=white)
 
@@ -26,7 +26,7 @@
 <br>
 ![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-ff006f?style=for-the-badge&logo=storybook&logoColor=white)
-![Playwright](https://img.shields.io/badge/playwright-ff006f?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-green?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Databases**
 <br>
