@@ -1,5 +1,7 @@
 
-## Hey! 👋🏼
+## Hey!👋🏼
+
+I'm a UI/UX-led frontend engineer, with ~4 years of experience in full-stack development. I made the pivot after creating a Shopify website for my small business, falling in love with the design and research process. I specialise in building data-heavy products, focusing on clarity, usability, and scalability.
 
 📫 Reach me at nihsunwar@gmail.com
 <br>
