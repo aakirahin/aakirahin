@@ -19,10 +19,8 @@ I'm a UI/UX-led frontend engineer, with ~4 years of experience in full-stack dev
 <br>
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=00bbff)
 ![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
-<br>
 ![TanStack](https://img.shields.io/badge/tanstack-orange?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)
-<br>
 ![Vite](https://img.shields.io/badge/vite-a938ff?style=for-the-badge&logo=vite&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-teal?style=for-the-badge&logo=nextjs&logoColor=white)
 
