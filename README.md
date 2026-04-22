@@ -1,7 +1,7 @@
 
-## Hey! I'm Niharika👋🏼
+## Hi! I'm Niharika👋🏼
 
-I'm a full-stack engineer with 3.5 years of experience building scalable SaaS applications, specialising in React and frontend architecture. Strong track record of delivering end-to-end features with a focus on performance, usability, and maintainability, with particular strength in frontend and UI/UX.
+I'm a full-stack engineer with 3.5 years of experience building scalable SaaS applications, with a deep fundamental understanding of React and JavaScript. I focus on performance and maintainability, with a particular strength in frontend and UI/UX.
 
 📫 Reach me at nihsunwar@gmail.com
 <br>
